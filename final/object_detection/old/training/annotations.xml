@@ -1,0 +1,472 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <project>
+      <id>1</id>
+      <name>Final Project</name>
+      <bugtracker></bugtracker>
+      <created>2024-11-28 02:10:42.669686+00:00</created>
+      <updated>2024-12-03 03:20:14.290016+00:00</updated>
+      <tasks>
+        <task>
+          <id>2</id>
+          <name>15_posts_annotations</name>
+          <size>15</size>
+          <mode>annotation</mode>
+          <overlap>0</overlap>
+          <bugtracker></bugtracker>
+          <created>2024-11-28 05:13:59.100951+00:00</created>
+          <updated>2024-11-29 03:46:34.574362+00:00</updated>
+          <subset>default</subset>
+          <start_frame>0</start_frame>
+          <stop_frame>14</stop_frame>
+          <frame_filter></frame_filter>
+          <segments>
+            <segment>
+              <id>2</id>
+              <start>0</start>
+              <stop>14</stop>
+              <url>http://localhost:8080/api/jobs/2</url>
+            </segment>
+          </segments>
+          <owner>
+            <username>django</username>
+            <email>gage.r.fleming@gmail.com</email>
+          </owner>
+          <assignee></assignee>
+        </task>
+        <task>
+          <id>3</id>
+          <name>50_posts</name>
+          <size>50</size>
+          <mode>annotation</mode>
+          <overlap>0</overlap>
+          <bugtracker></bugtracker>
+          <created>2024-11-29 03:54:25.893022+00:00</created>
+          <updated>2024-11-29 04:14:39.447484+00:00</updated>
+          <subset>default</subset>
+          <start_frame>0</start_frame>
+          <stop_frame>49</stop_frame>
+          <frame_filter></frame_filter>
+          <segments>
+            <segment>
+              <id>3</id>
+              <start>0</start>
+              <stop>49</stop>
+              <url>http://localhost:8080/api/jobs/3</url>
+            </segment>
+          </segments>
+          <owner>
+            <username>django</username>
+            <email>gage.r.fleming@gmail.com</email>
+          </owner>
+          <assignee></assignee>
+        </task>
+        <task>
+          <id>5</id>
+          <name>25_posts</name>
+          <size>25</size>
+          <mode>annotation</mode>
+          <overlap>0</overlap>
+          <bugtracker></bugtracker>
+          <created>2024-11-29 05:29:56.421564+00:00</created>
+          <updated>2024-11-29 05:34:21.733606+00:00</updated>
+          <subset>default</subset>
+          <start_frame>0</start_frame>
+          <stop_frame>24</stop_frame>
+          <frame_filter></frame_filter>
+          <segments>
+            <segment>
+              <id>4</id>
+              <start>0</start>
+              <stop>24</stop>
+              <url>http://localhost:8080/api/jobs/4</url>
+            </segment>
+          </segments>
+          <owner>
+            <username>django</username>
+            <email>gage.r.fleming@gmail.com</email>
+          </owner>
+          <assignee></assignee>
+        </task>
+      </tasks>
+      <subsets>default</subsets>
+      <owner>
+        <username>django</username>
+        <email>gage.r.fleming@gmail.com</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>Post</name>
+          <color>#f1b1c3</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </project>
+    <dumped>2024-12-03 03:23:36.089264+00:00</dumped>
+  </meta>
+  <image id="0" name="f_1723213378.jpg" subset="default" task_id="2" width="3024" height="4032">
+    <box label="Post" source="manual" occluded="0" xtl="706.70" ytl="929.30" xbr="2022.10" ybr="2969.10" z_order="0">
+    </box>
+  </image>
+  <image id="1" name="f_1723741777.jpg" subset="default" task_id="2" width="2448" height="3264">
+    <box label="Post" source="manual" occluded="0" xtl="719.90" ytl="867.60" xbr="1540.00" ybr="2429.00" z_order="0">
+    </box>
+  </image>
+  <image id="2" name="f_1724770680.jpeg" subset="default" task_id="2" width="4284" height="5712">
+    <box label="Post" source="manual" occluded="0" xtl="1030.50" ytl="968.90" xbr="3390.00" ybr="4994.70" z_order="0">
+    </box>
+  </image>
+  <image id="3" name="f_1728582283.jpg" subset="default" task_id="2" width="3072" height="4080">
+    <box label="Post" source="manual" occluded="0" xtl="538.59" ytl="954.43" xbr="2266.30" ybr="3457.90" z_order="0">
+    </box>
+  </image>
+  <image id="4" name="f_1729110220.jpg" subset="default" task_id="2" width="3072" height="4080">
+    <box label="Post" source="manual" occluded="0" xtl="702.60" ytl="911.00" xbr="2145.70" ybr="3385.60" z_order="0">
+    </box>
+  </image>
+  <image id="5" name="f_1729618893.jpg" subset="default" task_id="2" width="3072" height="4080">
+    <box label="Post" source="manual" occluded="0" xtl="533.80" ytl="679.50" xbr="2382.00" ybr="3530.30" z_order="0">
+    </box>
+  </image>
+  <image id="6" name="f_1729868880.jpg" subset="default" task_id="2" width="2880" height="2160">
+    <box label="Post" source="manual" occluded="0" xtl="666.60" ytl="462.40" xbr="1557.30" ybr="1917.40" z_order="0">
+    </box>
+  </image>
+  <image id="7" name="f_1729963227.jpg" subset="default" task_id="2" width="3024" height="4032">
+    <box label="Post" source="manual" occluded="0" xtl="604.70" ytl="924.70" xbr="1752.70" ybr="2918.20" z_order="0">
+    </box>
+  </image>
+  <image id="8" name="f_1730230992.jpg" subset="default" task_id="2" width="2992" height="2992">
+    <box label="Post" source="manual" occluded="0" xtl="671.90" ytl="93.59" xbr="2148.80" ybr="2497.30" z_order="0">
+    </box>
+  </image>
+  <image id="9" name="f_1730827524.jpg" subset="default" task_id="2" width="3072" height="4080">
+    <box label="Post" source="manual" occluded="0" xtl="541.68" ytl="768.77" xbr="2235.60" ybr="3457.00" z_order="0">
+    </box>
+  </image>
+  <image id="10" name="f_1731688472.jpg" subset="default" task_id="2" width="2880" height="2160">
+    <box label="Post" source="manual" occluded="0" xtl="138.28" ytl="408.77" xbr="1056.00" ybr="1983.80" z_order="0">
+    </box>
+  </image>
+  <image id="11" name="f_1731692629.jpg" subset="default" task_id="2" width="2880" height="2160">
+    <box label="Post" source="manual" occluded="0" xtl="15.70" ytl="378.10" xbr="1081.60" ybr="1897.00" z_order="0">
+    </box>
+  </image>
+  <image id="12" name="f_1732730020.jpg" subset="default" task_id="2" width="3072" height="4080">
+    <box label="Post" source="manual" occluded="0" xtl="753.57" ytl="662.64" xbr="2166.70" ybr="3093.00" z_order="0">
+    </box>
+  </image>
+  <image id="13" name="f_1732733021.jpg" subset="default" task_id="2" width="3072" height="4080">
+    <box label="Post" source="manual" occluded="0" xtl="825.90" ytl="821.80" xbr="2219.80" ybr="2904.90" z_order="0">
+    </box>
+  </image>
+  <image id="14" name="f_1732743286.jpg" subset="default" task_id="2" width="3072" height="4080">
+    <box label="Post" source="manual" occluded="0" xtl="647.46" ytl="855.60" xbr="2162.00" ybr="3565.60" z_order="0">
+    </box>
+  </image>
+  <image id="15" name="f_1698528979.jpg" subset="default" task_id="3" width="4032" height="3024">
+    <box label="Post" source="manual" occluded="0" xtl="1140.30" ytl="128.70" xbr="2827.40" ybr="2838.10" z_order="0">
+    </box>
+  </image>
+  <image id="16" name="f_1715357540.jpeg" subset="default" task_id="3" width="4284" height="5712">
+    <box label="Post" source="manual" occluded="0" xtl="1309.10" ytl="1708.60" xbr="2361.50" ybr="3331.00" z_order="0">
+    </box>
+  </image>
+  <image id="17" name="f_1716645306.jpg" subset="default" task_id="3" width="3024" height="4032">
+    <box label="Post" source="manual" occluded="0" xtl="679.99" ytl="679.20" xbr="1999.30" ybr="2844.90" z_order="0">
+    </box>
+  </image>
+  <image id="18" name="f_1721924951.jpg" subset="default" task_id="3" width="3024" height="4032">
+    <box label="Post" source="semi-auto" occluded="0" xtl="978.35" ytl="1253.34" xbr="2160.31" ybr="3274.11" z_order="0">
+    </box>
+  </image>
+  <image id="19" name="f_1722087465.jpg" subset="default" task_id="3" width="4032" height="3024">
+    <box label="Post" source="semi-auto" occluded="0" xtl="388.56" ytl="770.79" xbr="1584.80" ybr="2512.70" z_order="0">
+    </box>
+  </image>
+  <image id="20" name="f_1722445911.jpg" subset="default" task_id="3" width="3072" height="4080">
+    <box label="Post" source="semi-auto" occluded="0" xtl="552.15" ytl="999.96" xbr="2023.00" ybr="3305.20" z_order="0">
+    </box>
+  </image>
+  <image id="21" name="f_1722448409.jpg" subset="default" task_id="3" width="3072" height="4080">
+    <box label="Post" source="semi-auto" occluded="0" xtl="818.78" ytl="840.14" xbr="2288.78" ybr="3145.14" z_order="0">
+    </box>
+  </image>
+  <image id="22" name="f_1722517502.jpg" subset="default" task_id="3" width="4032" height="3024">
+    <box label="Post" source="semi-auto" occluded="0" xtl="661.50" ytl="825.80" xbr="1813.40" ybr="2684.40" z_order="0">
+    </box>
+  </image>
+  <image id="23" name="f_1722528944.jpg" subset="default" task_id="3" width="4032" height="3024">
+    <box label="Post" source="semi-auto" occluded="0" xtl="2189.15" ytl="548.21" xbr="3379.50" ybr="2359.70" z_order="0">
+    </box>
+  </image>
+  <image id="24" name="f_1723133810.jpg" subset="default" task_id="3" width="2992" height="2992">
+    <box label="Post" source="semi-auto" occluded="0" xtl="679.00" ytl="109.67" xbr="2410.50" ybr="2826.50" z_order="0">
+    </box>
+  </image>
+  <image id="25" name="f_1723305979.jpg" subset="default" task_id="3" width="2992" height="2992">
+    <box label="Post" source="semi-auto" occluded="0" xtl="803.50" ytl="93.80" xbr="2414.29" ybr="2813.32" z_order="0">
+    </box>
+  </image>
+  <image id="26" name="f_1723567768.jpg" subset="default" task_id="3" width="2448" height="3264">
+    <box label="Post" source="semi-auto" occluded="0" xtl="45.23" ytl="678.10" xbr="2014.00" ybr="3264.00" z_order="0">
+    </box>
+  </image>
+  <image id="27" name="f_1723656325.jpg" subset="default" task_id="3" width="2880" height="2160">
+    <box label="Post" source="semi-auto" occluded="0" xtl="180.60" ytl="427.89" xbr="1102.50" ybr="1973.60" z_order="0">
+    </box>
+  </image>
+  <image id="28" name="f_1724176140.jpg" subset="default" task_id="3" width="4032" height="3024">
+    <box label="Post" source="semi-auto" occluded="0" xtl="436.30" ytl="658.19" xbr="1711.21" ybr="2760.80" z_order="0">
+    </box>
+  </image>
+  <image id="29" name="f_1724776798.jpg" subset="default" task_id="3" width="2880" height="2160">
+    <box label="Post" source="semi-auto" occluded="0" xtl="48.20" ytl="346.70" xbr="1057.60" ybr="1795.70" z_order="0">
+    </box>
+  </image>
+  <image id="30" name="f_1725578471.jpg" subset="default" task_id="3" width="2992" height="2992">
+    <box label="Post" source="semi-auto" occluded="0" xtl="728.89" ytl="184.63" xbr="2279.00" ybr="2835.10" z_order="0">
+    </box>
+  </image>
+  <image id="31" name="f_1725991111.jpg" subset="default" task_id="3" width="2992" height="2992">
+    <box label="Post" source="semi-auto" occluded="0" xtl="737.00" ytl="83.22" xbr="2407.20" ybr="2814.60" z_order="0">
+    </box>
+  </image>
+  <image id="32" name="f_1726156244.jpg" subset="default" task_id="3" width="3024" height="4032">
+    <box label="Post" source="semi-auto" occluded="0" xtl="585.60" ytl="114.30" xbr="2574.87" ybr="3536.40" z_order="0">
+    </box>
+  </image>
+  <image id="33" name="f_1726598523.jpg" subset="default" task_id="3" width="2880" height="2160">
+    <box label="Post" source="semi-auto" occluded="0" xtl="123.50" ytl="319.10" xbr="1249.80" ybr="1879.10" z_order="0">
+    </box>
+  </image>
+  <image id="34" name="f_1726837326.jpg" subset="default" task_id="3" width="3024" height="4032">
+    <box label="Post" source="semi-auto" occluded="0" xtl="1192.28" ytl="766.94" xbr="2909.30" ybr="3327.80" z_order="0">
+    </box>
+  </image>
+  <image id="35" name="f_1726846162.jpg" subset="default" task_id="3" width="2880" height="2160">
+    <box label="Post" source="semi-auto" occluded="0" xtl="982.90" ytl="177.15" xbr="1888.00" ybr="1641.70" z_order="0">
+    </box>
+  </image>
+  <image id="36" name="f_1726851569.jpg" subset="default" task_id="3" width="2992" height="2992">
+    <box label="Post" source="semi-auto" occluded="0" xtl="926.73" ytl="193.00" xbr="1679.70" ybr="1699.40" z_order="0">
+    </box>
+  </image>
+  <image id="37" name="f_1726926745.jpg" subset="default" task_id="3" width="2880" height="2160">
+    <box label="Post" source="semi-auto" occluded="0" xtl="1802.40" ytl="286.49" xbr="2756.10" ybr="1713.30" z_order="0">
+    </box>
+  </image>
+  <image id="38" name="f_1726931417.jpg" subset="default" task_id="3" width="3024" height="4032">
+    <box label="Post" source="semi-auto" occluded="0" xtl="619.87" ytl="866.21" xbr="2206.70" ybr="3207.30" z_order="0">
+    </box>
+  </image>
+  <image id="39" name="f_1727292035.jpg" subset="default" task_id="3" width="3024" height="4032">
+    <box label="Post" source="semi-auto" occluded="0" xtl="504.40" ytl="1072.20" xbr="1713.90" ybr="3017.60" z_order="0">
+    </box>
+  </image>
+  <image id="40" name="f_1727293830.jpg" subset="default" task_id="3" width="2992" height="2992">
+    <box label="Post" source="semi-auto" occluded="0" xtl="631.70" ytl="92.55" xbr="2173.66" ybr="2412.80" z_order="0">
+    </box>
+  </image>
+  <image id="41" name="f_1727295649.jpg" subset="default" task_id="3" width="3072" height="4080">
+    <box label="Post" source="semi-auto" occluded="0" xtl="708.50" ytl="937.50" xbr="2278.39" ybr="3349.10" z_order="0">
+    </box>
+  </image>
+  <image id="42" name="f_1728401004.jpg" subset="default" task_id="3" width="3072" height="4080">
+    <box label="Post" source="semi-auto" occluded="0" xtl="634.00" ytl="631.70" xbr="2125.80" ybr="3177.70" z_order="0">
+    </box>
+  </image>
+  <image id="43" name="f_1728411309.jpg" subset="default" task_id="3" width="3072" height="4080">
+    <box label="Post" source="semi-auto" occluded="0" xtl="696.80" ytl="1015.64" xbr="2101.00" ybr="3329.10" z_order="0">
+    </box>
+  </image>
+  <image id="44" name="f_1728495886.jpg" subset="default" task_id="3" width="2711" height="2033">
+    <box label="Post" source="semi-auto" occluded="0" xtl="108.00" ytl="150.54" xbr="1327.23" ybr="1932.10" z_order="0">
+    </box>
+  </image>
+  <image id="45" name="f_1728582283_1.jpg" subset="default" task_id="3" width="3072" height="4080">
+    <box label="Post" source="semi-auto" occluded="0" xtl="539.51" ytl="921.10" xbr="2293.80" ybr="3531.60" z_order="0">
+    </box>
+  </image>
+  <image id="46" name="f_1728745471.jpg" subset="default" task_id="3" width="3024" height="4032">
+    <box label="Post" source="semi-auto" occluded="0" xtl="521.80" ytl="1041.70" xbr="1794.40" ybr="3213.20" z_order="0">
+    </box>
+  </image>
+  <image id="47" name="f_1729181811.jpeg" subset="default" task_id="3" width="4284" height="5712">
+    <box label="Post" source="semi-auto" occluded="0" xtl="926.98" ytl="1358.96" xbr="3205.44" ybr="5286.05" rotation="359.90" z_order="0">
+    </box>
+  </image>
+  <image id="48" name="f_1729268355.jpg" subset="default" task_id="3" width="3072" height="4080">
+    <box label="Post" source="semi-auto" occluded="0" xtl="609.69" ytl="702.64" xbr="2384.64" ybr="3506.93" rotation="359.90" z_order="0">
+    </box>
+  </image>
+  <image id="49" name="f_1729356647.jpg" subset="default" task_id="3" width="3072" height="4080">
+    <box label="Post" source="semi-auto" occluded="0" xtl="223.89" ytl="596.40" xbr="1883.11" ybr="3376.80" rotation="359.90" z_order="0">
+    </box>
+  </image>
+  <image id="50" name="f_1729620674.jpg" subset="default" task_id="3" width="2880" height="2160">
+    <box label="Post" source="semi-auto" occluded="0" xtl="1182.34" ytl="399.09" xbr="2078.58" ybr="1975.73" rotation="359.90" z_order="0">
+    </box>
+  </image>
+  <image id="51" name="f_1729621465.jpg" subset="default" task_id="3" width="2992" height="2992">
+    <box label="Post" source="semi-auto" occluded="0" xtl="460.18" ytl="138.07" xbr="2093.40" ybr="2487.89" rotation="359.90" z_order="0">
+    </box>
+  </image>
+  <image id="52" name="f_1729783187.jpg" subset="default" task_id="3" width="2992" height="2992">
+    <box label="Post" source="semi-auto" occluded="0" xtl="675.48" ytl="92.13" xbr="2344.88" ybr="2880.43" rotation="359.90" z_order="0">
+    </box>
+  </image>
+  <image id="53" name="f_1729983685.jpg" subset="default" task_id="3" width="2992" height="2992">
+    <box label="Post" source="semi-auto" occluded="0" xtl="615.28" ytl="120.31" xbr="2327.23" ybr="2717.82" rotation="359.90" z_order="0">
+    </box>
+  </image>
+  <image id="54" name="f_1730302906.jpg" subset="default" task_id="3" width="2880" height="2160">
+    <box label="Post" source="semi-auto" occluded="0" xtl="840.66" ytl="83.97" xbr="1805.70" ybr="1977.95" rotation="359.90" z_order="0">
+    </box>
+  </image>
+  <image id="55" name="f_1730303589.jpg" subset="default" task_id="3" width="2880" height="2160">
+    <box label="Post" source="semi-auto" occluded="0" xtl="758.98" ytl="351.77" xbr="1662.68" ybr="1725.40" rotation="359.90" z_order="0">
+    </box>
+  </image>
+  <image id="56" name="f_1730578213.jpg" subset="default" task_id="3" width="3000" height="4000">
+    <box label="Post" source="semi-auto" occluded="0" xtl="434.19" ytl="33.93" xbr="2521.76" ybr="3059.75" rotation="359.90" z_order="0">
+    </box>
+  </image>
+  <image id="57" name="f_1730912732.jpg" subset="default" task_id="3" width="2880" height="2160">
+    <box label="Post" source="semi-auto" occluded="0" xtl="407.52" ytl="563.93" xbr="1223.33" ybr="1919.61" rotation="359.90" z_order="0">
+    </box>
+  </image>
+  <image id="58" name="f_1731093686.jpg" subset="default" task_id="3" width="2448" height="3264">
+    <box label="Post" source="semi-auto" occluded="0" xtl="589.28" ytl="934.12" xbr="1631.83" ybr="2784.00" rotation="359.90" z_order="0">
+    </box>
+  </image>
+  <image id="59" name="f_1731178850.jpg" subset="default" task_id="3" width="3024" height="4032">
+    <box label="Post" source="semi-auto" occluded="0" xtl="594.79" ytl="480.62" xbr="2474.67" ybr="3185.10" rotation="359.90" z_order="0">
+    </box>
+  </image>
+  <image id="60" name="f_1731603026.jpeg" subset="default" task_id="3" width="4284" height="5712">
+    <box label="Post" source="semi-auto" occluded="0" xtl="1939.02" ytl="1695.30" xbr="3081.65" ybr="3624.66" rotation="359.90" z_order="0">
+    </box>
+  </image>
+  <image id="61" name="f_1731688472_1.jpg" subset="default" task_id="3" width="2880" height="2160">
+    <box label="Post" source="semi-auto" occluded="0" xtl="160.03" ytl="405.71" xbr="1048.74" ybr="1980.67" rotation="359.90" z_order="0">
+    </box>
+  </image>
+  <image id="62" name="f_1732052418.jpg" subset="default" task_id="3" width="3000" height="4000">
+    <box label="Post" source="semi-auto" occluded="0" xtl="555.95" ytl="141.75" xbr="2378.59" ybr="3147.71" rotation="359.90" z_order="0">
+    </box>
+  </image>
+  <image id="63" name="f_1732231341.jpg" subset="default" task_id="3" width="2880" height="2160">
+    <box label="Post" source="semi-auto" occluded="0" xtl="64.29" ytl="363.28" xbr="1254.02" ybr="2098.90" rotation="359.90" z_order="0">
+    </box>
+  </image>
+  <image id="64" name="f_1732308279.jpg" subset="default" task_id="3" width="3072" height="4080">
+    <box label="Post" source="semi-auto" occluded="0" xtl="767.97" ytl="855.55" xbr="2363.70" ybr="3125.75" rotation="359.90" z_order="0">
+    </box>
+  </image>
+  <image id="65" name="f_1722436101.jpeg" subset="default" task_id="5" width="4284" height="5712">
+    <box label="Post" source="semi-auto" occluded="0" xtl="1142.54" ytl="1033.20" xbr="3330.10" ybr="4746.60" z_order="0">
+    </box>
+  </image>
+  <image id="66" name="f_1722436765.jpg" subset="default" task_id="5" width="4032" height="3024">
+    <box label="Post" source="semi-auto" occluded="0" xtl="284.67" ytl="625.70" xbr="1525.00" ybr="2530.70" z_order="0">
+    </box>
+  </image>
+  <image id="67" name="f_1723812883.jpeg" subset="default" task_id="5" width="4284" height="5712">
+    <box label="Post" source="semi-auto" occluded="0" xtl="1189.40" ytl="1402.20" xbr="3462.80" ybr="4772.30" z_order="0">
+    </box>
+  </image>
+  <image id="68" name="f_1724966134.jpg" subset="default" task_id="5" width="2992" height="2992">
+    <box label="Post" source="semi-auto" occluded="0" xtl="577.60" ytl="44.11" xbr="2373.53" ybr="2751.50" z_order="0">
+    </box>
+  </image>
+  <image id="69" name="f_1726681100.jpg" subset="default" task_id="5" width="2992" height="2992">
+    <box label="Post" source="semi-auto" occluded="0" xtl="846.40" ytl="33.50" xbr="2458.40" ybr="2832.80" z_order="0">
+    </box>
+  </image>
+  <image id="70" name="f_1726842704.jpg" subset="default" task_id="5" width="4032" height="3024">
+    <box label="Post" source="semi-auto" occluded="0" xtl="485.40" ytl="791.30" xbr="1407.50" ybr="2035.70" z_order="0">
+    </box>
+  </image>
+  <image id="71" name="f_1726859856.jpg" subset="default" task_id="5" width="2992" height="2992">
+    <box label="Post" source="semi-auto" occluded="0" xtl="757.70" ytl="105.19" xbr="2174.95" ybr="2520.20" z_order="0">
+    </box>
+  </image>
+  <image id="72" name="f_1727203103.jpg" subset="default" task_id="5" width="2448" height="3264">
+    <box label="Post" source="semi-auto" occluded="0" xtl="472.20" ytl="961.70" xbr="1781.40" ybr="2998.60" z_order="0">
+    </box>
+  </image>
+  <image id="73" name="f_1727204343.jpg" subset="default" task_id="5" width="3024" height="4032">
+    <box label="Post" source="semi-auto" occluded="0" xtl="1358.70" ytl="1233.30" xbr="2696.50" ybr="3437.10" z_order="0">
+    </box>
+  </image>
+  <image id="74" name="f_1727359390.jpg" subset="default" task_id="5" width="4032" height="3024">
+    <box label="Post" source="semi-auto" occluded="0" xtl="561.60" ytl="972.40" xbr="1345.40" ybr="2003.70" z_order="0">
+    </box>
+  </image>
+  <image id="75" name="f_1727469718.jpg" subset="default" task_id="5" width="3024" height="4032">
+    <box label="Post" source="semi-auto" occluded="0" xtl="952.41" ytl="1067.72" xbr="2093.70" ybr="2785.30" z_order="0">
+    </box>
+  </image>
+  <image id="76" name="f_1727971614.jpg" subset="default" task_id="5" width="3072" height="4080">
+    <box label="Post" source="semi-auto" occluded="0" xtl="638.93" ytl="706.02" xbr="2093.70" ybr="3243.50" z_order="0">
+    </box>
+  </image>
+  <image id="77" name="f_1728075024.jpg" subset="default" task_id="5" width="2992" height="2992">
+    <box label="Post" source="semi-auto" occluded="0" xtl="561.13" ytl="44.67" xbr="2313.00" ybr="2730.70" z_order="0">
+    </box>
+  </image>
+  <image id="78" name="f_1728407600.jpeg" subset="default" task_id="5" width="4284" height="5712">
+    <box label="Post" source="semi-auto" occluded="0" xtl="1087.76" ytl="1361.26" xbr="3271.70" ybr="5066.80" z_order="0">
+    </box>
+  </image>
+  <image id="79" name="f_1728408206.jpeg" subset="default" task_id="5" width="4284" height="5712">
+    <box label="Post" source="semi-auto" occluded="0" xtl="1054.00" ytl="1016.92" xbr="3359.47" ybr="4985.80" z_order="0">
+    </box>
+  </image>
+  <image id="80" name="f_1728579223.jpg" subset="default" task_id="5" width="2448" height="3264">
+    <box label="Post" source="semi-auto" occluded="0" xtl="529.30" ytl="1128.90" xbr="1938.70" ybr="3129.00" z_order="0">
+    </box>
+  </image>
+  <image id="81" name="f_1728662812.jpg" subset="default" task_id="5" width="3024" height="4032">
+    <box label="Post" source="semi-auto" occluded="0" xtl="1091.68" ytl="1000.22" xbr="2262.80" ybr="2714.40" z_order="0">
+    </box>
+  </image>
+  <image id="82" name="f_1728671940.jpg" subset="default" task_id="5" width="2992" height="2992">
+    <box label="Post" source="semi-auto" occluded="0" xtl="812.29" ytl="70.08" xbr="2085.90" ybr="2219.20" z_order="0">
+    </box>
+  </image>
+  <image id="83" name="f_1728748912.jpg" subset="default" task_id="5" width="3024" height="4032">
+    <box label="Post" source="semi-auto" occluded="0" xtl="831.35" ytl="804.04" xbr="2181.20" ybr="2867.40" z_order="0">
+    </box>
+  </image>
+  <image id="84" name="f_1728765221.jpg" subset="default" task_id="5" width="3024" height="4032">
+    <box label="Post" source="semi-auto" occluded="0" xtl="855.20" ytl="703.95" xbr="2390.90" ybr="2967.50" z_order="0">
+    </box>
+  </image>
+  <image id="85" name="f_1729093189.jpg" subset="default" task_id="5" width="2448" height="3264">
+    <box label="Post" source="semi-auto" occluded="0" xtl="546.50" ytl="592.10" xbr="1873.90" ybr="2859.50" z_order="0">
+    </box>
+  </image>
+  <image id="86" name="f_1729107273.jpg" subset="default" task_id="5" width="3024" height="4032">
+    <box label="Post" source="semi-auto" occluded="0" xtl="903.95" ytl="820.87" xbr="2083.60" ybr="3031.10" z_order="0">
+    </box>
+  </image>
+  <image id="87" name="f_1729262074.jpg" subset="default" task_id="5" width="2992" height="2992">
+    <box label="Post" source="semi-auto" occluded="0" xtl="422.96" ytl="49.88" xbr="2175.60" ybr="2882.60" z_order="0">
+    </box>
+  </image>
+  <image id="88" name="f_1729623180.jpg" subset="default" task_id="5" width="2992" height="2992">
+    <box label="Post" source="semi-auto" occluded="0" xtl="536.10" ytl="117.10" xbr="2207.40" ybr="2521.90" z_order="0">
+    </box>
+  </image>
+  <image id="89" name="f_1729627908.jpg" subset="default" task_id="5" width="2992" height="2992">
+    <box label="Post" source="semi-auto" occluded="0" xtl="635.10" ytl="110.00" xbr="2108.40" ybr="2525.40" z_order="0">
+    </box>
+  </image>
+</annotations>
